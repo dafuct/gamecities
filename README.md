@@ -1,7 +1,7 @@
-# gamecities
+# WEB GAME CITIES
 
-WEB GAME CITIES
-Used technologies: Spring Boot, Freemarker
+Used technologies: Spring Boot, Freemarker.
+
 Run game: 
 - git clone https://github.com/dafuct/gamecities.git
 - cd gamecities
